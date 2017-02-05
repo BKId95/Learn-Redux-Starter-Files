@@ -12,4 +12,4 @@ const PhotoGrid = React.createClass({
   }
 });
 
-  export default PhotoGrid;
+export default PhotoGrid;
